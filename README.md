@@ -1,3 +1,4 @@
 # hello-world
-just a repository to start with
-just adding the file
+Hello Humans
+
+This is sreyas learning the github though very late
